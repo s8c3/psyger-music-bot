@@ -1,0 +1,15 @@
+{
+  "name": "psyger-music-bot",
+  "version": "1.0.0",
+  "description": "Professional Discord Music Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "@discordjs/voice": "^0.16.0",
+    "play-dl": "^1.9.6",
+    "dotenv": "^16.4.5"
+  }
+}
